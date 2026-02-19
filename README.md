@@ -1,7 +1,7 @@
 # changelog-component
 Project reference: https://roadmap.sh/projects/changelog-component
 
-Codepen: https://codepen.io/cindrawan/pen/gbMJNae
+[Result](https://htmlpreview.github.io/?https://github.com/cindrawan/changelog-component/blob/main/index.html)
 
 Feedbacks are welcomed.
 
